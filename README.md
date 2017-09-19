@@ -14,4 +14,4 @@ Driving log 2017:
 * 8/15 - Francisco - CMNH
 * 7/28 - tony - thai basil
 * 7/25 - Francisco - five guys
-* 7/21 - Franciscome - oreganos 
+* 7/21 - Francisco - oreganos 
