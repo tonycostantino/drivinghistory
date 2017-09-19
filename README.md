@@ -4,6 +4,7 @@ making sure francisco doesn't cheat
 
 Driving log 2017:
 --
+* 9/19 - me - chipotle
 * 9/15 - Larry - Los Dos Molinos
 * 9/13 - tony - chipotle
 * 9/08 - jhony - thai
