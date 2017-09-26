@@ -4,6 +4,7 @@ making sure francisco doesn't cheat
 
 Driving log 2017:
 --
+* 9/26 - Cisco - chipotle
 * 9/21 - Tony - mexican place
 * 9/19 - Francisco - chipotle
 * 9/15 - Larry - Los Dos Molinos
