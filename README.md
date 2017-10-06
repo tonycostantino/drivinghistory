@@ -4,8 +4,8 @@ making sure francisco doesn't cheat
 
 Driving log 2017:
 --
-* 10/6 - Jhony - Thai Basil
-* 9/26 - Cisco - chipotle
+* 10/6 - Francisco - Thai Basil
+* 9/26 - Francisco - chipotle
 * 9/21 - Tony - mexican place
 * 9/19 - Francisco - chipotle
 * 9/15 - Larry - Los Dos Molinos
